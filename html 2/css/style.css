@@ -1,0 +1,22 @@
+.font2{color:gold;
+    text-align: center;
+    font-size: 300%;
+    margin-top: -20px
+}
+.font1{color:gold;
+    text-align: center;
+    font-size: 500%;
+    margin-top: -250px;
+}
+.font3{color: white;font-size:300%;text-align:center}
+.img2{margin-top: -320px;
+      margin-bottom: 0px;
+      margin-left: 1550px;
+      margin-right: auto;
+}
+.video1{
+    margin-left: 500px;
+}
+body{
+    background:red url(../img/geming.jpeg) no-repeat 0 0 ;background-size:1920px 484px;
+}
